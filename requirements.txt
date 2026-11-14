@@ -1,0 +1,9 @@
+# VerityOS - Trust Engine Dependencies
+# Install when ready using: pip install -r requirements.txt
+
+# Data validation and flexible schema modeling
+pydantic>=2.0.0
+
+# Unit testing framework
+pytest>=7.0.0
+

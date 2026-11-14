@@ -1,0 +1,44 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite / Databases
+*.db
+*.sqlite
+*.sqlite3
+backend/data/*.db
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables (NEVER commit secrets)
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Node / Frontend
+node_modules/
+.next/
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+htmlcov/
+.coverage
